@@ -6,12 +6,12 @@
 
 
 :root {
-    --cor-de-fundo: #EBECEE;
-    --branco: #FFFFFF;
+    --cor-de-fundo: #839745;
+    --branco: #ff0000;
     --laranja: #ab04ff;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
-    --azul: #002f52;
+    --azul: #0091ff;
 }
 
 body {
